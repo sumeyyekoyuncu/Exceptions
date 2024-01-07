@@ -1,1 +1,1 @@
-# EXceptions
+# Exceptions
